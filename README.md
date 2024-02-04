@@ -75,6 +75,10 @@ Shipping and Delivery Efficiency:
 
 ## Data Exploration and Transformation
 
+Data Exploration                             |                               Data exploration
+:-------------------------------------------:|:----------------------------------------------:
+![](sql_1.jgp)                          |                          ![](sql_2.jgp)
+
 Data cleaning                                |                                   Data cleaning
 :-------------------------------------------:|:----------------------------------------------:
 ![](sup_cleaning1.png)                       |                          ![](sup_cleaning3.png)
