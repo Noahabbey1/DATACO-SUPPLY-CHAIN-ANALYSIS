@@ -77,16 +77,16 @@ Shipping and Delivery Efficiency:
 
 Data Exploration                             |                               Data exploration
 :-------------------------------------------:|:----------------------------------------------:
-![](sql_1.jgp)                          |                          ![](sql_2.jgp)
+![](sql_1.jpg)                          |                          ![](sql_2.jpg)
 
 Data cleaning                                |                                   Data cleaning
 :-------------------------------------------:|:----------------------------------------------:
-![](sup_cleaning1.png)                       |                          ![](sup_cleaning3.png)
+![](sql_3.jpg)                       |                          ![](sql_4.jpg)
 
 
 Data cleaning                                |                                   Data cleaning
 :-------------------------------------------:|:----------------------------------------------:
-![](sup_cleaning4.png)                       |                          ![](sup_cleaning2.png)
+![](sql_6.jpg)                       |                          ![](sql_7.jpg)
 
 
 Data Exploration                             |                               Data exploration
