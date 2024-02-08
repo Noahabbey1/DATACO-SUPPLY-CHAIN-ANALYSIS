@@ -183,12 +183,11 @@ I have created two dashboard from this dataset.
 
 - Executive Dashboard:
 
-![](sup_img.jpeg)
+![](exec_dash.jpg)
 
 - Shipping Dashboard:
 
-  ![](sup_img111.jpeg)
+  ![](shipping_dash.jpg)
 
-To interact with the dashboards, please click [here](https://app.powerbi.com/links/BRLtnaxsME?ctid=e757cfdd-1f35-4457-af8f-7c9c6b1437e3&pbi_source=linkShare&bookmarkGuid=4bbd7983-9bda-45b2-a1f7-82d6c316b58f)
-
+To interact with the dashboards, please click [here](https://app.powerbi.com/groups/me/reports/4948c89b-dac6-41b4-9fe4-6b06e3021ea8/ReportSection8a5b30c6c5fee3724755?experience=power-bi&bookmarkGuid=Bookmarke2653cbcea45070c80e6)
 Thank you!
